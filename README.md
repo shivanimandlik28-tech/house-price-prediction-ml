@@ -19,3 +19,5 @@ Models Used:
 
 Evaluation Metric:
 - Mean Absolute Percentage Error (MAPE)
+# Conclusion
+ This project predicts house prices using machine learning techniques. The dataset was analyzed, cleaned, and used to train multiple models such as Linear Regression, Random Forest, and Support Vector Machine. After evaluating the models using MAE and R² score, the best model was used to predict the price of a new house based on its features.
